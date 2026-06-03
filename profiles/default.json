@@ -1,0 +1,63 @@
+{
+  "wheels": [
+    {
+      "name": "Wheel 1",
+      "options": [
+        {
+          "name": "Pizza",
+          "weight": 1
+        },
+        {
+          "name": "Burgers",
+          "weight": 1
+        },
+        {
+          "name": "Sushi",
+          "weight": 1
+        },
+        {
+          "name": "Tacos",
+          "weight": 1
+        },
+        {
+          "name": "Salad",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "time": "2026-06-03 12:14:49",
+      "player": "Guest",
+      "result": "Salad"
+    },
+    {
+      "time": "2026-06-03 12:13:36",
+      "player": "Guest",
+      "result": "VIP Pass"
+    },
+    {
+      "time": "2026-06-03 12:13:35",
+      "player": "Guest",
+      "result": "Free Coffee"
+    },
+    {
+      "time": "2026-06-03 11:56:43",
+      "result": "ben"
+    },
+    {
+      "time": "2026-06-03 11:32:25",
+      "result": "$100 Gift Card"
+    },
+    {
+      "time": "2026-06-03 11:23:33",
+      "result": "Mystery Prize"
+    }
+  ],
+  "theme": "Default",
+  "elimination_mode": false,
+  "background_image": null,
+  "centerpiece_image": null,
+  "particle_style": "Falling Money"
+}
